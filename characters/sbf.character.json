@@ -1,7 +1,7 @@
 {
     "name": "SBF",
-    "clients": ["twitter"],
-    "modelProvider": "anthropic",
+    "clients": [],
+    "modelProvider": "openai",
     "settings": {
         "voice": {
             "model": "en_US-ryan-low"
